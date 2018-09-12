@@ -1,0 +1,8 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+      xmlns:tools="http://schemas.android.com/tools"
+      tools:context="mobile.android.aspark.MultiUserChatRoomActivity">
+    <item android:id="@+id/menu_item_chat_room_refresh"
+          android:title="刷新"
+          android:orderInCategory="100"
+          android:showAsAction="never"/>
+</menu>
